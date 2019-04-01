@@ -1,5 +1,5 @@
 ## 当 https://packagecontrol.io 无法访问时, 使用此替代方案~
-
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ### Package Control.sublime-package
 迫于某些不可描述的原因, 无法安装Package Control, 请执行以下步骤手动安装包控制:
 1. 点击 Preferences > Browse Packages... 菜单
