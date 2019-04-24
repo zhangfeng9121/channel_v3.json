@@ -10,7 +10,7 @@
 ### channel_v3.json
 1. 下载 channel_v3.json 到本地 /path/xxx/channel_v3.json
 2. 点击 Preferences > Package Settings > Package Control > Settings - User
-3. 添加 `"channels": ["/path/xxx/channel_v3.json"],`
+3. 添加 `"channels": ["/path/xxx/channel_v3.json/channel_v3.json"],`
 
 ### Nothing
 如果插件不多的情况下, 上述操作完全可以抛弃, 手动维护也很方便, 以 GoSublime 和 phpfmt 插件举例:
